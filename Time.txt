@@ -1,2 +1,4 @@
 class Time{
+
+void show(){}
 }
